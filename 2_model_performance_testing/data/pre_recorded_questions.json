@@ -1,0 +1,44 @@
+{
+  "FAQs": [
+    {
+      "question": "What are the shipping options?",
+      "answer": "We offer standard, expedited, and overnight shipping options. Shipping costs and delivery times vary depending on your location and the selected shipping method."
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "Once your order has been shipped, you will receive an email with the tracking number and a link to track your order. You can also track your order through your account on our website."
+    },
+    {
+      "question": "What is your return policy?",
+      "answer": "We accept returns within 30 days of purchase. Items must be in original condition with tags attached. To initiate a return, please visit our returns page and follow the instructions."
+    },
+    {
+      "question": "How do I cancel my order?",
+      "answer": "You can cancel your order within 24 hours of placing it by contacting our customer service team. If the order has already been shipped, you will need to follow our return process."
+    },
+    {
+      "question": "Do you ship internationally?",
+      "answer": "Yes, we ship to most countries worldwide. International shipping rates and delivery times will be calculated at checkout."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept major credit cards (Visa, MasterCard, American Express), PayPal, and Apple Pay. For international orders, we also accept wire transfers."
+    },
+    {
+      "question": "How can I contact customer service?",
+      "answer": "You can contact our customer service team via email at support@example.com or by calling our toll-free number at 1-800-123-4567. Our support team is available Monday to Friday, 9 AM to 6 PM."
+    },
+    {
+      "question": "Can I change my shipping address after placing an order?",
+      "answer": "If your order has not yet been shipped, you can update your shipping address by contacting our customer service team. Once the order has been shipped, we are unable to change the shipping address."
+    },
+    {
+      "question": "What should I do if I receive a damaged or defective item?",
+      "answer": "If you receive a damaged or defective item, please contact our customer service team immediately. We will provide instructions on how to return the item and issue a replacement or refund."
+    },
+    {
+      "question": "How do I apply a promo code to my order?",
+      "answer": "You can apply a promo code at checkout. Enter the code in the 'Promo Code' field and click 'Apply'. The discount will be reflected in your order total."
+    }
+  ]
+}
