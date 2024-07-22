@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "3-api-enpoint-testing"
+version = "0.1.0"
+description = ""
+authors = ["ShubhankarRaj <raj8lm@gmail.com>"]
+readme = "README.md"
+packages = [{include = "3_api_enpoint_testing"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.111.1"
+uvicorn = "^0.30.3"
+sqlalchemy = "^2.0.31"
+databases = "^0.9.0"
+pydantic = "^2.8.2"
+pytest = "^8.3.1"
+pytest-mock = "^3.14.0"
+pytest-asyncio = "^0.23.8"
+httpx = "^0.27.0"
+aiosqlite = "^0.20.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

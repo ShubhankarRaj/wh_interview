@@ -1,0 +1,1 @@
+poetry run python data_quality_module/data_cleaner_main.py --input_path dataset/FAQs.csv --delete_cols parent_category,category_id,que_ans --delete_rows answer --lower_case_cols question,answer --clean_html_tags question,answer --output_path dataset/processed_FAQs.csv

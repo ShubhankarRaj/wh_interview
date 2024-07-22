@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "2-model-performance-testing"
+version = "0.1.0"
+description = ""
+authors = ["ShubhankarRaj <raj8lm@gmail.com>"]
+readme = "README.md"
+packages = [{include = "2_model_performance_testing"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+sentence-transformers = "^3.0.1"
+scikit-learn = "^1.5.1"
+pandas = "^2.2.2"
+torch = "^2.3.1"
+datasets = "^2.20.0"
+accelerate = "^0.32.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
